@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyal Guho Dipto</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [E-shop](https://github.com/dipto3/E-shop)
+- 🔭 I’m currently working on [Barta](https://github.com/dipto3/Barta)
 
 - 📫 How to reach me **dipto393@gmail.com**
 
